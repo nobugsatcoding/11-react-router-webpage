@@ -2,3 +2,29 @@
   text-align: center;
 }
 
+nav {
+  background: #d38585;
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+a {
+  color: azure;
+  font-size: 2em;
+  text-decoration: none;
+  transition: ease 0.3s;
+  padding: 0.15em 1em;
+}
+
+a:hover {
+  text-shadow: 5px 2px #a60101;
+  background: #e09b9b;
+  letter-spacing: 2px;
+  box-shadow: inset 2px -2px 5px #000, 2px 2px 5px #000;
+  border-radius: 5px;
+}
+
+a:active {
+  transform: translateY(12px);
+}

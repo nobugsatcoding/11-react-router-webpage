@@ -2,7 +2,7 @@
 
 const Gallery = () => {
   return (
-    <div>Gallery</div>
+    <div>GALERIJA</div>
   )
 }
 
