@@ -1,0 +1,24 @@
+.serv_container {
+  display: flex;
+  font-size: calc(1em + 1vw);
+}
+
+.card {
+  margin: 1vw;
+  box-shadow: 5px 5px 15px #e3e3e3;
+  border-radius: 2vw;
+  cursor: pointer;
+}
+
+.card:hover {
+  background: #e3e3e3;
+  box-shadow: 5px 5px 15px #cec9c9;
+}
+
+.card p {
+  font-size: calc(1rem + 1vw);
+}
+
+.card img{
+    max-width: 15vw;
+}
