@@ -1,0 +1,30 @@
+.about {
+  padding: 2em 0;
+}
+
+.about p {
+  margin: 1vw 2vw;
+  display: inline-block;
+  font-size: calc(1rem + 1vw);
+  border: 2px solid #cacaca;
+  padding: 1vw;
+  border-radius: 15px;
+}
+
+.comment {
+  font-size: calc(0.75rem + 1vw);
+}
+
+.sign {
+  width: 45vh;
+}
+
+.about .comment,
+.about .sign {
+  margin: 1vw 2vw;
+  border: 2px solid #cacaca;
+  border-radius: 15px;
+  padding: 1vw;
+  display: inline-block;
+}
+

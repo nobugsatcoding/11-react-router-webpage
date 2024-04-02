@@ -1,0 +1,14 @@
+.contacts {
+  font-size: calc(1.25rem + 1vw);
+}
+
+.contactInfo div  {
+  padding: 1vw 3vw;
+  display: inline-block;
+}
+
+
+iframe {
+  margin: 5vw 0;
+  width: 100vw;
+}

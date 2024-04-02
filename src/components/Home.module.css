@@ -1,9 +1,18 @@
 .home {
   display: flex;
-  font-size: 5em;
-  align-items: center;
-  justify-content: center;
-  height: 90vh;
-  background-image: url("../images/home_pic.jpg");
-  background-size: contain;
+  font-size: calc(1rem + 3vw);
+  background-size:cover;
+  display: flex;
+  align-items: center ;
+  flex-direction: column;
+}
+
+img {
+  width: 50%;
+}
+
+.footerPic {
+  position: fixed;
+  bottom: 0;
+  width: 70vw;
 }

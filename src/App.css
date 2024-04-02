@@ -6,12 +6,12 @@ nav {
   background: #d38585;
   display: flex;
   justify-content: space-around;
-  padding: 1em;
+  padding: 1%;
 }
 
 a {
   color: azure;
-  font-size: 2em;
+  font-size: calc(0.5rem + 1vw);
   text-decoration: none;
   transition: ease 0.3s;
   padding: 0.15em 1em;
