@@ -2,32 +2,31 @@
   padding: 2em 0;
 }
 
+.header {
+  display: flex;
+}
+
 .about p {
-  margin: 1vw 2vw;
-  display: inline-block;
-  font-size: calc(1rem + 1vw);
-  border: 2px solid #cacaca;
+  width: 32vw;
+  margin: 1vw;
+  font-size: calc(0.75rem + 1vw);
   padding: 1vw;
-  border-radius: 15px;
+}
+
+.about img {
+  margin: 2vw 0;
+  width: 15vw;
 }
 
 .comment {
+  margin: 1vw 2vw;
+  text-align: start;
   font-size: calc(0.75rem + 1vw);
 }
 
-.sign {
-  width: 45vh;
-}
-
-.about .comment,
-.about .sign {
-  margin: 1vw 2vw;
-  border: 2px solid #cacaca;
-  border-radius: 15px;
-  padding: 1vw;
-  display: inline-block;
-}
-
-.sign img {
-  width: 50%;
+.comment section {
+  border: 1px solid #8c8b8b;
+  padding: 1vw ;
+  border-radius: 1vw;
+  margin: 2vw 0;
 }
