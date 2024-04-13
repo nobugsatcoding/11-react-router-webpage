@@ -6,7 +6,7 @@ import picture from '../images/home_pic_3.jpg';
 const Home = () => {
   const [displayText, setDisplayText] = useState('');
   const [showText, setShowText] = useState(false);
-  const homeText = 'GERIAUSI ELEKTRIKAI ŠIAURĖS LIETUVOJE';
+  const homeText = 'GERIAUSI ELEKTRIKAI ŠIAURĖS LIETUVOJE!';
 
   useEffect(() => {
     if (showText) {
