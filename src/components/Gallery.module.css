@@ -1,6 +1,9 @@
 .gallery img {
   width: 50vw;
   user-select: none;
+  border: 1px solid #000;
+  aspect-ratio: 5/3.5;
+  object-fit: cover;
 }
 
 .gallery {
