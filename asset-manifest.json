@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/1-react-router-webpage/static/css/main.0213b732.css",
-    "main.js": "/1-react-router-webpage/static/js/main.874531d8.js",
-    "static/media/gal_2.jpg": "/1-react-router-webpage/static/media/gal_2.63ebe764ee7ed5bccb2f.jpg",
-    "static/media/gal_0.jpg": "/1-react-router-webpage/static/media/gal_0.01ea8d3a3a916bdc23e0.jpg",
-    "static/media/gal_5.jpg": "/1-react-router-webpage/static/media/gal_5.66a9a4aa639ac2903229.jpg",
-    "static/media/service_2.jpg": "/1-react-router-webpage/static/media/service_2.8a7d3ad1a90f04286780.jpg",
-    "static/media/gal_3.webp": "/1-react-router-webpage/static/media/gal_3.a69b1ecbab9429a95c5e.webp",
-    "static/media/gal_1.jpeg": "/1-react-router-webpage/static/media/gal_1.a2eebdf3b447af1dc0e4.jpeg",
-    "static/media/service_1.jpg": "/1-react-router-webpage/static/media/service_1.60471d77df538fb96438.jpg",
-    "static/media/gal_4.jpg": "/1-react-router-webpage/static/media/gal_4.34f969c217b0937e3371.jpg",
-    "static/media/service_4.jpg": "/1-react-router-webpage/static/media/service_4.e890dac97198f23d3769.jpg",
-    "static/media/service_3.jpg": "/1-react-router-webpage/static/media/service_3.9ab4f285018cb7a898f9.jpg",
-    "static/media/quality.jpg": "/1-react-router-webpage/static/media/quality.98dc86027716b4a36d1c.jpg",
-    "static/media/pic_eletric.jpg": "/1-react-router-webpage/static/media/pic_eletric.596f316b9637b78eea4e.jpg",
-    "static/media/en_sis_logo_50.jpg": "/1-react-router-webpage/static/media/en_sis_logo_50.cda8e161fe32bc564b3b.jpg",
-    "static/media/home_pic_3.jpg": "/1-react-router-webpage/static/media/home_pic_3.75449f577c50259523e6.jpg",
-    "static/media/growth.jpg": "/1-react-router-webpage/static/media/growth.a1f796c728a9b74c6233.jpg",
-    "index.html": "/1-react-router-webpage/index.html",
-    "main.0213b732.css.map": "/1-react-router-webpage/static/css/main.0213b732.css.map",
-    "main.874531d8.js.map": "/1-react-router-webpage/static/js/main.874531d8.js.map"
+    "main.css": "/11-react-router-webpage/static/css/main.0213b732.css",
+    "main.js": "/11-react-router-webpage/static/js/main.9253d8ee.js",
+    "static/media/gal_2.jpg": "/11-react-router-webpage/static/media/gal_2.63ebe764ee7ed5bccb2f.jpg",
+    "static/media/gal_0.jpg": "/11-react-router-webpage/static/media/gal_0.01ea8d3a3a916bdc23e0.jpg",
+    "static/media/gal_5.jpg": "/11-react-router-webpage/static/media/gal_5.66a9a4aa639ac2903229.jpg",
+    "static/media/service_2.jpg": "/11-react-router-webpage/static/media/service_2.8a7d3ad1a90f04286780.jpg",
+    "static/media/gal_3.webp": "/11-react-router-webpage/static/media/gal_3.a69b1ecbab9429a95c5e.webp",
+    "static/media/gal_1.jpeg": "/11-react-router-webpage/static/media/gal_1.a2eebdf3b447af1dc0e4.jpeg",
+    "static/media/service_1.jpg": "/11-react-router-webpage/static/media/service_1.60471d77df538fb96438.jpg",
+    "static/media/gal_4.jpg": "/11-react-router-webpage/static/media/gal_4.34f969c217b0937e3371.jpg",
+    "static/media/service_4.jpg": "/11-react-router-webpage/static/media/service_4.e890dac97198f23d3769.jpg",
+    "static/media/service_3.jpg": "/11-react-router-webpage/static/media/service_3.9ab4f285018cb7a898f9.jpg",
+    "static/media/quality.jpg": "/11-react-router-webpage/static/media/quality.98dc86027716b4a36d1c.jpg",
+    "static/media/pic_eletric.jpg": "/11-react-router-webpage/static/media/pic_eletric.596f316b9637b78eea4e.jpg",
+    "static/media/en_sis_logo_50.jpg": "/11-react-router-webpage/static/media/en_sis_logo_50.cda8e161fe32bc564b3b.jpg",
+    "static/media/home_pic_3.jpg": "/11-react-router-webpage/static/media/home_pic_3.75449f577c50259523e6.jpg",
+    "static/media/growth.jpg": "/11-react-router-webpage/static/media/growth.a1f796c728a9b74c6233.jpg",
+    "index.html": "/11-react-router-webpage/index.html",
+    "main.0213b732.css.map": "/11-react-router-webpage/static/css/main.0213b732.css.map",
+    "main.9253d8ee.js.map": "/11-react-router-webpage/static/js/main.9253d8ee.js.map"
   },
   "entrypoints": [
     "static/css/main.0213b732.css",
-    "static/js/main.874531d8.js"
+    "static/js/main.9253d8ee.js"
   ]
 }
