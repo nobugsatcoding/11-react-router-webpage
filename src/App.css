@@ -32,3 +32,9 @@ a:hover {
 a:active {
   transform: translateY(12px);
 }
+
+.notFound {
+  font-size: 5vw;
+  margin-top: 15vw;
+
+}

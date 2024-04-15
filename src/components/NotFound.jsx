@@ -2,7 +2,7 @@
 
 export const NotFound = () => {
   return (
-    <div>Page Not Found</div>
+    <div className="notFound">Page Not Found</div>
   )
 }
 
