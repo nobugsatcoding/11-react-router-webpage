@@ -31,7 +31,7 @@ const Home = () => {
 
   return (
     <div className={styles.home}>
-      <img src={logo} alt="logo" />
+      <img className={styles.logo} src={logo} alt="logo" />
       <p>{displayText}</p>
       <img className={styles.footerPic} src={picture} alt="instruments" />
     </div>

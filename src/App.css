@@ -3,25 +3,29 @@
 }
 
 nav {
-  background: #d38585;
+  background: #f7eca8;
   display: flex;
   justify-content: space-around;
   padding: 1%;
+  box-shadow: 1px 10px 12px rgba(123, 119, 98, 0.4);
 }
 
 a {
-  color: azure;
+  color: rgb(0, 0, 0);
   font-size: calc(0.5rem + 1vw);
   text-decoration: none;
-  transition: ease 0.3s;
-  padding: 0.15em 1em;
+  transition: ease 0.2s;
+  padding: 0.35em 1em;
 }
 
 a:hover {
-  text-shadow: 5px 2px #a60101;
-  background: #e09b9b;
+  font-weight: 900;
+  color: rgb(255, 252, 240);
+  text-shadow: 1px 1px #000000, 1px -1px #000000, -1px 1px #000000;
+  background: rgb(242, 224, 132);
   letter-spacing: 2px;
-  box-shadow: inset 2px -2px 5px #000, 2px 2px 5px #000;
+  box-shadow: inset 2px -2px 15px rgb(115, 92, 22, 0.3),
+    2px 2px 15px rgb(115, 92, 22, 0.3);
   border-radius: 5px;
 }
 

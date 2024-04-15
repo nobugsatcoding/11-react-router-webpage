@@ -1,18 +1,20 @@
 .home {
   display: flex;
-  font-size: calc(1rem + 3vw);
-  background-size:cover;
+  font-size: calc(1rem + 2vw);
+  background-size: cover;
   display: flex;
-  align-items: center ;
+  align-items: center;
   flex-direction: column;
 }
 
-.home img {
+.logo {
+  margin-top: 1vw;
   width: 50%;
 }
 
 .footerPic {
   position: fixed;
   bottom: 0;
-  width: 70vw;
+  height: 40%;
+  min-width: 100%;
 }
