@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/11-react-router-webpage/static/css/main.cc8b6696.css",
+    "main.css": "/11-react-router-webpage/static/css/main.0f6401c7.css",
     "main.js": "/11-react-router-webpage/static/js/main.19b9a442.js",
     "static/media/gal_2.jpg": "/11-react-router-webpage/static/media/gal_2.63ebe764ee7ed5bccb2f.jpg",
     "static/media/gal_0.jpg": "/11-react-router-webpage/static/media/gal_0.01ea8d3a3a916bdc23e0.jpg",
@@ -18,11 +18,11 @@
     "static/media/home_pic_3.jpg": "/11-react-router-webpage/static/media/home_pic_3.75449f577c50259523e6.jpg",
     "static/media/growth.jpg": "/11-react-router-webpage/static/media/growth.a1f796c728a9b74c6233.jpg",
     "index.html": "/11-react-router-webpage/index.html",
-    "main.cc8b6696.css.map": "/11-react-router-webpage/static/css/main.cc8b6696.css.map",
+    "main.0f6401c7.css.map": "/11-react-router-webpage/static/css/main.0f6401c7.css.map",
     "main.19b9a442.js.map": "/11-react-router-webpage/static/js/main.19b9a442.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc8b6696.css",
+    "static/css/main.0f6401c7.css",
     "static/js/main.19b9a442.js"
   ]
 }
