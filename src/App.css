@@ -21,7 +21,8 @@ a {
 a:hover {
   font-weight: 900;
   color: rgb(255, 252, 240);
-  text-shadow: 1px 1px #000000, 1px -1px #000000, -1px 1px #000000;
+  text-shadow: 2px 2px #ffc800, 2px -2px #ffc800, -2px 2px #ffc800,
+    -2px -2px #ffc800;
   background: rgb(242, 224, 132);
   letter-spacing: 2px;
   box-shadow: inset 2px -2px 15px rgb(115, 92, 22, 0.3),
@@ -36,5 +37,4 @@ a:active {
 .notFound {
   font-size: 5vw;
   margin-top: 15vw;
-
 }

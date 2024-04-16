@@ -1,5 +1,5 @@
 .gallery img {
-  width: 50vw;
+  width: 70vw;
   user-select: none;
   border: 1px solid #000;
   aspect-ratio: 5/3.5;
@@ -7,7 +7,7 @@
 }
 
 .gallery {
-  margin: calc(1rem + 3vw) 0;
+  margin: calc(1rem + 1vw) 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,10 +23,11 @@
 .icon:hover {
   background: #959191;
   border-radius: 30%;
-  padding-top: 0.35rem;
+  padding-top: 0.4rem;
   color: #fff;
 }
 
 .icon:active{
     transform: translateY(5px);
+    color: rgb(0, 0, 0);
 }
