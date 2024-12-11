@@ -7,7 +7,7 @@ const Menu = () => {
         to="." 
         end
       >
-        PAGRINDINIS
+        PAGRINDAS
       </NavLink>
       <NavLink 
         to="about"
